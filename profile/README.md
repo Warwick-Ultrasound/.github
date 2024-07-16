@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a repository for code that members of the Ultrasound group at the University of Warwick have written. The idea is that code to control equipment or perform common calculations can be reused, rather than being lost when the person who wrote it leaves. 
+This is a repository for code that members of the Ultrasound group at the University of Warwick have written. The idea is that code to control equipment or perform common calculations can be reused, rather than being lost when the person who wrote it leaves. It can additionally be used to host models that have been used to produce research outputs, so that code is openly availible for other researchers to use.
 
 ## Requirements for Submission
 
